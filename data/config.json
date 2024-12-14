@@ -1,0 +1,4 @@
+{
+    "block_sizes": [64, 128, 256, 512],
+    "initial_blocks": 3
+}
